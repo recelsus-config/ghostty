@@ -1,3 +1,5 @@
+command = /opt/homebrew/bin/tmux
+
 quit-after-last-window-closed=true
 window-save-state=never
 
