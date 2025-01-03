@@ -1,0 +1,8 @@
+quit-after-last-window-closed=true
+window-save-state=never
+
+copy-on-select=true
+clipboard-read=allow
+clipboard-write=allow
+
+keybind = ctrl+shift+v=paste_from_clipboard
