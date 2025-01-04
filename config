@@ -1,4 +1,4 @@
-command = /opt/homebrew/bin/tmux
+command = ~/.config/ghostty/script/start.sh
 
 quit-after-last-window-closed=true
 window-save-state=never

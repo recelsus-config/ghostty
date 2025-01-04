@@ -2,3 +2,5 @@
 !.gitignore
 
 !config
+!script/
+!script/start.sh
