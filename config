@@ -8,3 +8,5 @@ clipboard-read=allow
 clipboard-write=allow
 
 keybind = ctrl+shift+v=paste_from_clipboard
+font-feature = -dlig
+
